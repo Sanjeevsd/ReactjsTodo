@@ -1,0 +1,29 @@
+.footer {
+  background-color: #1e1e1e;
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 10px;
+  position: sticky;
+  bottom: 0;
+  padding: 10px 15px;
+}
+
+.footer .footer_details {
+  font-size: small;
+  text-align: end;
+  color: gray;
+}
+
+.footer_details > a {
+  text-decoration: none;
+  color: rgb(235, 201, 8);
+}
+
+.footer_left > a > .MuiSvgIcon-root {
+  font-size: 30px !important;
+  margin-right: 30px;
+  color: rgb(255, 123, 0);
+}

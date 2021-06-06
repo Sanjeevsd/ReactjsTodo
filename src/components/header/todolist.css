@@ -1,0 +1,21 @@
+.todo-list {
+  padding: 10px;
+}
+
+.input-text {
+  width: 100%;
+}
+
+.button-submit {
+  margin-left: 5px !important;
+  width: 200px;
+  height: 40px;
+}
+.formclass {
+  width: 100%;
+  display: flex;
+  border: 1px red;
+  flex-direction: row !important;
+  justify-content: center;
+  align-items: center;
+}

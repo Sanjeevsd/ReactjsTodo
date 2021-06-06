@@ -1,0 +1,10 @@
+.list-card {
+  padding: 0 !important;
+  margin-top: 10px;
+  background-color: lightgray;
+  align-items: center;
+}
+
+.content-card {
+  padding: 0 !important;
+}
